@@ -10,7 +10,8 @@ from itertools import product
 plat="Windows";
 
 #-------
-bruteforce_set="abcdefghijklmnopqrstuvwxyz";
+bruteforce_set="abcdefghijklmnopqrstuvwxyz1234567890@#₹%&
+";
 limit=2
 #-------
 
